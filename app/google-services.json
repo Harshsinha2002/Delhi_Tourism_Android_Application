@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "729065907210",
+    "project_id": "login-page-delhi-tourism-app",
+    "storage_bucket": "login-page-delhi-tourism-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:729065907210:android:256dd6a364bbb664c7ebf3",
+        "android_client_info": {
+          "package_name": "com.example.delhitour"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDuct6VQecLQ5jgm0kbOPirHjXhKajqrxQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:729065907210:android:27752c6f54f77cccc7ebf3",
+        "android_client_info": {
+          "package_name": "com.example.delhitourism"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDuct6VQecLQ5jgm0kbOPirHjXhKajqrxQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
